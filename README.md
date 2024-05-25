@@ -1,0 +1,6 @@
+- 👋 Hola, Soy @YoharJB
+- 👀 Estoy interesado en aprender programacion y coding
+- 🌱 estoy en estos momentos aprendiendo HTML Y CCS
+- 💞️ Estoy dispuesto a colaborar cualquier codigo
+- 📫 me pueden contactar en mi Github
+- 😄 Pronouns: YoharJB
